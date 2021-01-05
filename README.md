@@ -1,0 +1,2 @@
+# GlobalAIHubMLCourse
+Machine Learning Basics
